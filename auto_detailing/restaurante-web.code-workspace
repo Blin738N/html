@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../mipaginaweb/restaurante-web"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html"
+	}
+}
