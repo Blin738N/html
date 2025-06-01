@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Dancing+Script', sans-serif;
+}
+p{
+    color: rgb(233, 236, 190);
+    color: rgb(181, 28, 219);
+    color: rgba(#ce8b8b,red, green, blue, alpha);
+    background-color: #d3c9ce;
+}   
+.caja{
+    
+    height: 100vh;
+    background-image: url(../auto_detailing/img/ppf.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    
+}
